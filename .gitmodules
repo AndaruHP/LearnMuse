@@ -1,0 +1,12 @@
+[submodule "garudahacks-backend"]
+	path = garudahacks-backend
+	url = https://github.com/AndaruHP/garudahacks-backend.git
+[submodule "garudahacks-be-fastapi"]
+	path = garudahacks-be-fastapi
+	url = https://github.com/AndaruHP/garudahacks-be-fastapi.git
+[submodule "garudahacks-backend-manim"]
+	path = garudahacks-backend-manim
+	url = https://github.com/AndaruHP/garudahacks-backend-manim.git
+[submodule "garudahacks-frontend"]
+	path = garudahacks-frontend
+	url = https://github.com/EdwinLolo/garudahacks-frontend.git
